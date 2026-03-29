@@ -29,3 +29,4 @@ file -s "$(which ffprobe)"
 echo "########"
 echo "Done! :D"
 echo "########"
+echo

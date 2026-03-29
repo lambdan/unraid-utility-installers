@@ -23,6 +23,7 @@ ln -s "$DIR/AppRun" "$DEST"
 # verify
 file -s "$(which vim)"
 
-echo "#####"
-echo "Done!"
-echo "#####"
+echo "########"
+echo "Done! :D"
+echo "########"
+echo

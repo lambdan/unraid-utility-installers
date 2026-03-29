@@ -26,3 +26,4 @@ file -s "$(which rsgain)"
 echo "########"
 echo "Done! :D"
 echo "########"
+echo
